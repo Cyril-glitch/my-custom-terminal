@@ -89,8 +89,10 @@ cp .zshrc ~/
 Le kitty.conf est le fichier de configuration de kitty.
 Par exemple c'est ici qu'on pourra gérer la gestion de la fenêtre ( taille, opacité, images d'arriere plan etc...).
 
+la commande suivante conserve le kitty.conf d'origine , il sera renommé en kitty.conf.bak , puis en crée un nouveau.
+
 ```bash
-mkdir -p ~/.config/kitty
+mv ~/.config/kitty/kitty.conf ~/.config/kitty/kitty.conf.bak
 cp kitty.conf ~/.config/kitty/
 ```
 ### Copier le dossier de config Fastfetch
