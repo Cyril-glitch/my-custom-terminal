@@ -12,6 +12,8 @@ eval "$(starship init zsh)"
 # Lancer fastfetch au démarrage, image/logo fixe
 fastfetch
 
+alias clear='clear && fastfetch'
+
 # ---------------------------
 # Zsh auto-completion & highlighting
 # ---------------------------
@@ -22,5 +24,5 @@ source /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # Autocomplete plugin
-#source $HOME/zsh-autocomplete/zsh-autocomplete.plugin.zsh
+source $HOME/zsh-autocomplete/zsh-autocomplete.plugin.zsh
 
