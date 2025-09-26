@@ -107,7 +107,17 @@ cp Starship/nord_segments.toml ~/.config/starship.toml
 Voilà le tour est joué !
 ---
 
-# 🛠️ Helpers:
+## 🛠️ Helpers:
+
+L'option : hide_window_decorations est activé dans kitty.conf
+
+Il faut donc utiliser les raccourcis clavier de votre gnome pour la gérer
+
+ou
+
+commenter cette option et décommenter l'option : hide_window_decorations titlebar-only
+
+vous obtiendrez une barre de titre
 
 lien vers la video it's foss qui recapitule les étapes :
 
