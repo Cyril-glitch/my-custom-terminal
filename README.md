@@ -77,7 +77,7 @@ fc-cache -fv
 
 ### Copier le .zshrc
 
-.zshrc est le fichier de configuration de zsh.
+Le .zshrc est le fichier de configuration de zsh.
 C'est ici qu'on pourra activer ou desactiver les extensions. 
 
 ```bash
