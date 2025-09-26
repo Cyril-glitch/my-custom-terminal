@@ -24,7 +24,7 @@ curl -L https://sw.kovidgoyal.net/kitty/installer.sh | sh /dev/stdin
 ```bash
 sudo apt install zsh zsh-autosuggestions zsh-syntax-highlighting
 ```
-**pour la saisie auto**
+pour la saisie auto
 
 ```
 % git clone --depth 1 -- https://github.com/marlonrichert/zsh-autocomplete.git
