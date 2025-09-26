@@ -77,11 +77,17 @@ fc-cache -fv
 
 ### Copier le .zshrc
 
+.zshrc est le fichier de configuration de zsh.
+C'est ici qu'on pourra activer ou desactiver les extensions. 
+
 ```bash
 cp .zshrc ~/
 ```
 
 ### Copier le kitty.conf
+
+Le kitty.conf est le fichier de configuration de kitty.
+Par exemple c'est ici qu'on pourra gérer la gestion de la fenêtre ( taille, opacité, images d'arriere plan etc...).
 
 ```bash
 mkdir -p ~/.config/kitty
