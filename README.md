@@ -34,7 +34,7 @@ pour la saisie auto
 ```bash
 curl -sS https://starship.rs/install.sh | sh
 ```
-### installer Fastfetch
+### Installer Fastfetch
 Pour Ubuntu 24.10 et versions ultérieures :
 
 ```bash
@@ -67,7 +67,7 @@ git clone https://github.com/Cyril-glitch/my-custom-terminal.git
 cd my-custom-terminal
 ```
 
-### copier les fonts
+### Copier les fonts
 
 ```bash
 mkdir -p ~/.fonts
@@ -75,19 +75,19 @@ cp fonts/* ~/.fonts/
 fc-cache -fv
 ```
 
-### copier le .zshrc
+### Copier le .zshrc
 
 ```bash
 cp .zshrc ~/
 ```
 
-### copier le kitty.conf
+### Copier le kitty.conf
 
 ```bash
 mkdir -p ~/.config/kitty
 cp kitty.conf ~/.config/kitty/
 ```
-### copier le dossier de config Fastfetch
+### Copier le dossier de config Fastfetch
 
 ```bash
 cp -r fastfetch/* ~/.config/fastfetch/
@@ -97,6 +97,7 @@ cp -r fastfetch/* ~/.config/fastfetch/
 ```bash
 cp Starship/nord_segments.toml ~/.config/starship.toml
 ```
+
 Voilà le tour est joué !
 ---
 
