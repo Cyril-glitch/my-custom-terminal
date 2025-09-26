@@ -60,6 +60,13 @@ sudo update-alternatives --config x-terminal-emulator
 
 ## 🔧 3. Patch & Configurations
 
+# 📥 Récupérer le repo
+
+```bash
+git clone https://github.com/Cyril-glitch/my-custom-terminal.git
+cd my-custom-terminal
+```
+
 ### copier les fonts
 
 ```bash
