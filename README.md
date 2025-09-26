@@ -17,7 +17,8 @@ Ce repo permet de reproduire rapidement mon terminal Kitty personnalisé sur Ubu
 sudo apt update
 sudo apt install -y kitty zsh curl unzip fastfetch
 
-Installer Starship
+'''
+# Installer Starship
 
 curl -sS https://starship.rs/install.sh | sh
 
