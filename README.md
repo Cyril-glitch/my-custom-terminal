@@ -109,6 +109,8 @@ Voilà le tour est joué !
 
 ## 🛠️ Helpers:
 
+### Tips 1 :
+
 L'option : hide_window_decorations est activé dans kitty.conf
 
 Il faut donc utiliser les raccourcis clavier de votre gnome pour la gérer
@@ -118,6 +120,8 @@ ou
 commenter cette option et décommenter l'option : hide_window_decorations titlebar-only
 
 vous obtiendrez une barre de titre
+
+### Tips 2 :
 
 lien vers la video it's foss qui recapitule les étapes :
 
