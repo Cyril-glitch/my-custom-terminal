@@ -7,7 +7,7 @@ Ce repo permet de reproduire rapidement mon terminal Kitty personnalisé sur Ubu
 - **Starship** avec preset Nord_segements  
 - **Fastfetch** pour un affichage stylé du système
 
-![Capture du terminal](images/terminal_capture.png)
+![Capture du terminal](images/terminal-capture.png)
 
 ---
 
